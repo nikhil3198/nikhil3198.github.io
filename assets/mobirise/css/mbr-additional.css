@@ -2003,7 +2003,7 @@ body {
 .cid-qZ777t3yFv .progress2 .progressbar-number:before,
 .cid-qZ777t3yFv .progress3 .progressbar-number:before,
 .cid-qZ777t3yFv .progress4 .progressbar-number:before,
-.cid-qZ777t3yFv .progress5 .progressbar-number:before {
+.cid-qZ777t3yFv .progress5 .progressbar-number:before. {
   position: absolute;
   right: 15px;
   top: 0;
@@ -2033,8 +2033,9 @@ body {
   content: '55';
 }
 .cid-qZ777t3yFv .progress5 .progressbar-number:before {
-  content: '60';
+  content: '50';
 }
+
 @media (min-width: 768px) {
   .cid-qZ777t3yFv .text-elements {
     padding-right: 3rem;
